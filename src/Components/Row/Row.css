@@ -1,6 +1,8 @@
 .row {
-  color: #fff;
-  margin-left: 20px;
+  color: rgba(155, 181, 240, 0.796);
+  margin-left: 18px;
+  font-style: italic;
+  font-size: 18px;
 }
 
 .row__posters {
@@ -23,10 +25,10 @@
 }
 
 .row__poster:hover {
-  transform: scale(1.08);
+  transform: scale(1.06);
   opacity: 1;
 }
 
-.row__posterL {
+.row__posterLarge {
   max-height: 250px;
 }
