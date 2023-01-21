@@ -1,8 +1,9 @@
 .row {
-  color: rgba(155, 181, 240, 0.796);
-  margin-left: 18px;
+  color: white;
+  margin-left: 22px;
   font-style: italic;
-  font-size: 18px;
+  /* font-size: 18px; */
+  
 }
 
 .row__posters {
