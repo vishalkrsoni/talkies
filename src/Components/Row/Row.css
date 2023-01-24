@@ -3,7 +3,6 @@
   margin-left: 22px;
   font-style: italic;
   /* font-size: 18px; */
-  
 }
 
 .row__posters {
@@ -26,10 +25,14 @@
 }
 
 .row__poster:hover {
-  transform: scale(1.06);
+  transform: scale(1.07);
   opacity: 1;
 }
 
 .row__posterLarge {
   max-height: 250px;
+}
+.row__posterLarge:hover {
+  transform: scale(1.09);
+  opacity: 1;
 }
