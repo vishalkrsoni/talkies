@@ -13,14 +13,13 @@
   justify-content: space-between;
 }
 .nav__logo {
-  position: fixed;
-  left: 0;
-  width: 195px;
-  object-fit: contain;
-  padding-left: 30px;
-  cursor: pointer;
-  /* optional for my logo*/
-  margin-top: -5px;
+ 
+    position: fixed;
+    left: 0;
+    width: 200px;
+    object-fit: contain;
+    cursor: pointer;
+    margin-top: -66px;
 }
 
 .nav__avatar {
@@ -31,7 +30,9 @@
   width: 30px;
 }
 .nav__black {
-  background-color: rgb(4, 36, 7);
-  background-color: rgb(18, 4, 25);
+  /* background-color: rgb(4, 36, 7); */
+  background-color: rgb(10, 5, 16);
+  /* background-color: rgb(19, 7, 133); */
+
 
 }
